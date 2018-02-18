@@ -1,5 +1,5 @@
 {
-  "name": "thomaschard.in",
+  "name": "a-camuto.in",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,5 +19,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://tchardin.github.io/"
+  "homepage": "https://a-camuto.github.io/"
 }
